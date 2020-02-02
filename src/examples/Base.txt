@@ -1,0 +1,76 @@
+MAINDECK 100
+Creature 18
+1 Bellowing Tanglewurm
+1 Brutalizer Exarch
+1 Copperhorn Scout
+1 Creeperhulk
+1 Elder Druid
+1 Elder of Laurels
+1 Elvish Mystic
+1 Elvish Visionary
+1 Fyndhorn Brownie
+1 Gigantomancer
+1 Great Oak Guardian
+1 Llanowar Elves
+1 Marwyn, the Nurturer
+1 Multani's Acolyte
+1 Sandstone Oracle
+1 Ursapine
+1 Voice of Many
+1 Wildheart Invoker
+Spell 49
+1 Aim High
+1 Alpha Authority
+1 Blanchwood Armor
+1 Boar Umbra
+1 Burst of Strength
+1 Centaur Glade
+1 Colossal Heroics
+1 Colossal Majesty
+1 Conqueror's Galleon
+1 Curse of Bounty
+1 Dragonscale Boon
+1 Emerald Charm
+1 Epic Proportions
+1 Fleetfeather Sandals
+1 Fortitude
+1 Gift of Growth
+1 Gigantiform
+1 Horn of Plenty
+1 Hunter's Prowess
+1 Hurricane
+1 Jandor's Saddlebags
+1 Key to the City
+1 Loreseeker's Stone
+1 Malachite Talisman
+1 Mortal's Resolve
+1 Naturalize
+1 Once and Future
+1 Ornamental Courage
+1 Prodigious Growth
+1 Regrowth
+1 Restock
+1 Return to Nature
+1 Revive
+1 Ruthless Instincts
+1 Sacred Armory
+1 Savage Surge
+1 Season of Growth
+1 Seedling Charm
+1 Snake Umbra
+1 Soul's Might
+1 Spider Umbra
+1 Spidery Grasp
+1 Steady Aim
+1 Stony Strength
+1 Synchronized Strike
+1 Touch of Vitae
+1 Vines of the Recluse
+1 Wildest Dreams
+1 Withstand Death
+Land 33
+1 Desert of the Indomitable
+29 Forest
+1 Slippery Karst
+1 Tranquil Thicket
+1 Treetop Village

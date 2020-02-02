@@ -1,10 +1,18 @@
 .App {
+  margin: 10px;
   display: flex;
   justify-content: center;
   align-items: center;
   height: 100%;
 }
 
-.App-content {
-  height: 100%;
+.column {
+  flex-direction: column;
+}
+
+.green {
+  color: #009c39;
+}
+.red {
+  color: #ff0000;
 }
