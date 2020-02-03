@@ -94,14 +94,16 @@ const App: React.FC = () => {
                 </div>
                 {Object.entries(result).length > 0 && (
                     <div className="App column">
-                        {Object.entries(result).map(([key, value]) => (
-                            <div
-                                key={key}
-                                className={value > 0 ? "green" : "red"}
-                            >
-                                {value} {key}
-                            </div>
-                        ))}
+                        <div>
+                            {Object.entries(result).map(([key, value]) => (
+                                <div
+                                    key={key}
+                                    className={value > 0 ? "green" : "red"}
+                                >
+                                    {value} {key}
+                                </div>
+                            ))}
+                        </div>
                     </div>
                 )}
             </div>
