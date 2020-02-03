@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/deck-subtractor/static/css/main.51c8e3cc.chunk.css",
+    "main.js": "/deck-subtractor/static/js/main.acba027c.chunk.js",
+    "main.js.map": "/deck-subtractor/static/js/main.acba027c.chunk.js.map",
+    "runtime-main.js": "/deck-subtractor/static/js/runtime-main.91e6f1cd.js",
+    "runtime-main.js.map": "/deck-subtractor/static/js/runtime-main.91e6f1cd.js.map",
+    "static/js/2.8296e9b2.chunk.js": "/deck-subtractor/static/js/2.8296e9b2.chunk.js",
+    "static/js/2.8296e9b2.chunk.js.map": "/deck-subtractor/static/js/2.8296e9b2.chunk.js.map",
+    "index.html": "/deck-subtractor/index.html",
+    "precache-manifest.916ee7b8f983dcde7e0f04f4b99f8f20.js": "/deck-subtractor/precache-manifest.916ee7b8f983dcde7e0f04f4b99f8f20.js",
+    "service-worker.js": "/deck-subtractor/service-worker.js",
+    "static/css/main.51c8e3cc.chunk.css.map": "/deck-subtractor/static/css/main.51c8e3cc.chunk.css.map",
+    "static/js/2.8296e9b2.chunk.js.LICENSE": "/deck-subtractor/static/js/2.8296e9b2.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.91e6f1cd.js",
+    "static/js/2.8296e9b2.chunk.js",
+    "static/css/main.51c8e3cc.chunk.css",
+    "static/js/main.acba027c.chunk.js"
+  ]
+}
