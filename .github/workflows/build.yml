@@ -13,7 +13,6 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
-      - uses: Geertvdc/setup-hub@v1.0.0
       - name: Build
         uses: actions/setup-node@v1
         with:
