@@ -20,6 +20,7 @@ jobs:
       - run: git config --global user.name '${{ secrets.NAME }}'
       - run: git config --global user.email '${{ secrets.MAIL }}'
       - run: yarn install
+      - run: yarn build
         env:
           CI: true
       - name: Deploy 🚀
